@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
