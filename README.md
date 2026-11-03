@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
@@ -49,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0962-maximum-width-ramp](https://github.com/Akshat-hub7/DailyLeetCodeChallenge/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
